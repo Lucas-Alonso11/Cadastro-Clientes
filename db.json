@@ -1,0 +1,58 @@
+{
+  "clientes": [
+    {
+      "id": "d506",
+      "nomeCompleto": "Teste01",
+      "dataNascimento": "2000-01-01",
+      "sexo": "masculino",
+      "estadoCivil": "Teste01",
+      "cpf": "00000000000",
+      "rg": "Teste01",
+      "cep": "Teste01",
+      "cidade": "Teste01",
+      "estado": "Teste01",
+      "telefone": "Teste01",
+      "email": "Teste01@Teste01.com",
+      "profissao": "Teste01",
+      "empresa": "Teste01",
+      "cargo": "Teste01",
+      "renda": "Teste01"
+    },
+    {
+      "id": "4a4e",
+      "nomeCompleto": "Teste02",
+      "dataNascimento": "2000-01-01",
+      "sexo": "masculino",
+      "estadoCivil": "Teste02",
+      "cpf": "00000000000",
+      "rg": "Teste02",
+      "cep": "Teste02",
+      "cidade": "Teste02",
+      "estado": "Teste02",
+      "telefone": "Teste02",
+      "email": "Teste02@Teste02.com",
+      "profissao": "Teste02",
+      "empresa": "Teste02",
+      "cargo": "Teste02",
+      "renda": "Teste02"
+    },
+    {
+      "id": "03c7",
+      "nomeCompleto": "Teste03",
+      "dataNascimento": "2000-01-01",
+      "sexo": "masculino",
+      "estadoCivil": "Teste03",
+      "cpf": "00000000000",
+      "rg": "Teste03",
+      "cep": "Teste03",
+      "cidade": "Teste03",
+      "estado": "Teste03",
+      "telefone": "Teste03",
+      "email": "Teste03@Teste03.com",
+      "profissao": "Teste03",
+      "empresa": "Teste03",
+      "cargo": "Teste03",
+      "renda": "Teste03"
+    }
+  ]
+}
