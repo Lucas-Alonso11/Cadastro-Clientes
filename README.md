@@ -18,4 +18,4 @@ Exibição de mensagens de erro para campos inválidos.
 
 ### Integração com Backend:
 
-Envio dos dados do formulário para um backend (usando JSON Server ou outro).
+Envio dos dados do formulário para um backend (usando JSON Server).
